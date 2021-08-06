@@ -11,8 +11,3 @@ function App() {
 }
 
 export default App;
-
-// added
-// a multi
-// one line comment
-// so that anything I do will be blablabla
